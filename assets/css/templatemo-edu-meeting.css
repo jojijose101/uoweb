@@ -1085,9 +1085,7 @@ section.apply-now .item p {
   color: #f5a425;
   border-bottom: none;
 }
-.accordion-head.is-open .icon {
-  transform: rotate(45deg);
-}
+
 .accordion-body {
   overflow: hidden;
   height: 0;
